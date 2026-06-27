@@ -36,13 +36,3 @@ Por eso este repositorio solo contiene:
 - Eliminacion de datos privados.
 - Capturas sin informacion sensible de clientes reales.
 
-## Recomendacion antes de publicar
-
-Antes de subir el repositorio a GitHub, revisar que no haya:
-
-- Correos privados.
-- Contraseñas.
-- Tokens.
-- Archivos de copia de seguridad.
-- Exportaciones de base de datos.
-- Capturas con datos personales.
