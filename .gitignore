@@ -1,0 +1,46 @@
+# WordPress core
+wp-admin/
+wp-includes/
+wp-content/
+
+# Configuration and credentials
+wp-config.php
+.env
+*.env
+config.php
+
+# Database exports
+*.sql
+*.sqlite
+*.db
+
+# Backups
+*.zip
+*.tar
+*.tar.gz
+*.rar
+backup/
+backups/
+
+# Logs and temporary files
+*.log
+*.tmp
+tmp/
+cache/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+vendor/
+
+# IDE/editor
+.vscode/
+.idea/
+
+# Private media or uploads
+uploads-private/
+private/
