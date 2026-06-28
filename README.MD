@@ -89,7 +89,15 @@ Se uso un fragmento PHP con hooks de WooCommerce para anadir un boton personaliz
 
 ### Categorias de producto
 
-![Categorias de producto](screenshots/categoria-productos.png)
+![Categorias de producto](screenshots/categorias-productos.png)
+
+### Lista de productos
+
+![Lista de productos](screenshots/lista-productos.png)
+
+### Producto individual
+
+![Producto individual](screenshots/producto.png)
 
 ### Carrito
 
@@ -102,6 +110,10 @@ Se uso un fragmento PHP con hooks de WooCommerce para anadir un boton personaliz
 ### Mi cuenta
 
 ![Mi cuenta](screenshots/users.png)
+
+### Contacto
+
+![Contacto](screenshots/contacto.png)
 
 ### Responsive tablet
 
@@ -139,11 +151,15 @@ Obradoiro-Kreativo-GitHub/
    ├─ carrito.png
    ├─ categoria-productos.png
    ├─ checkout.png
+   ├─ contacto.png
    ├─ inicio.png
+   ├─ producto.png
    ├─ responsive-phone.png
    ├─ responsive-phone-menu.png
    ├─ responsive-tablet.png
-   └─ users.png
+   ├─ users.png
+   └─ subseccion.png
+
 ```
 
 ## Documentacion
