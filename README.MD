@@ -89,11 +89,11 @@ Se uso un fragmento PHP con hooks de WooCommerce para anadir un boton personaliz
 
 ### Categorias de producto
 
-![Categorias de producto](screenshots/categorias-productos.png)
+![Categorias de producto](screenshots/categoria-productos.png)
 
-### Lista de productos
+### Subseccion
 
-![Lista de productos](screenshots/lista-productos.png)
+![Subseccion](screenshots/subseccion.png)
 
 ### Producto individual
 
